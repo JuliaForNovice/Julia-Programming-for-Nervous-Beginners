@@ -2,10 +2,9 @@
 
 A course for people who have never programmed, and who are unsure whether they are suited to programming.
 
-We are guided by the following slogans:
+We are guided by three slogans:
 
 #### Small Steps
- Nervous 
 #### Nothing Left Out
 #### Everything Makes Sense
 
