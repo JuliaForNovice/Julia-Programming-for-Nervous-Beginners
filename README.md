@@ -4,7 +4,8 @@ A course for people who have never programmed, and who are unsure whether they a
 
 We are guided by the following slogans:
 
-#### Small Steps #### Nervous 
+#### Small Steps
+ Nervous 
 #### Nothing Left Out
 #### Everything Makes Sense
 
