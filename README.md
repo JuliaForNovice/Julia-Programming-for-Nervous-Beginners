@@ -8,8 +8,6 @@ We are guided by the following slogans:
 #### Nothing Left Out
 #### Everything Makes Sense
 
-We hope this course will eventually be a good place for people who are very hestitant to start learning how to program.
-
 Why Julia?
 
 Mainly because we love it, but also because it seems to us very well suited to a very slow exposition. On this course, we want to be as explicit as possible (hence the slogan "Nothing Left Out") and also as reasonable as possible ("Everything Makes Sense"). Julia allows one to write code that is easily understood but also powerful (in the sense of very few lines of code per useful outcome) but it also allows one to write code that is very detailed (that is, one isn't forced to use high-level functions that cannot be inspected). This makes it easy to give simple examples -- note that our examples are primarily text rather than arithmetic -- while at times delving into details.
