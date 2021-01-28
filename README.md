@@ -1,5 +1,13 @@
 # Julia Programming for Nervous Beginners
 
+A course for people who have never programmed, and who are unsure whether they are suited to programming.
+
+We are guided by the following slogans:
+
+#### Small Steps
+#### Nothing Left Out
+#### Everything Makes Sense
+
 We hope this course will eventually be a good place for people who are very hestitant to start learning how to program.
 
 Why Julia?
