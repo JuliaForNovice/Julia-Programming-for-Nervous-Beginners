@@ -15,3 +15,8 @@ Mainly because we love it, but also because it seems to us very well suited to a
 Of course, this ability to combine powerful and compact code with high levels of detailed programming is one of the reasons why Julia can be used for development as well as production. Put another way, it can be used for rapid prototyping and then deployed in very large projects with little or no change to the code. (Perhaps even more important is the high frequency of code re-use all over Julia, even across apparently unrelated projects, but that is an advanced topic beyond the scope of this course.
 
 For now, the course consists of two sources: the video material on YouTube (link to follow) and the lesson documents (in PDF format) uploaded here (link to follow)
+
+
+### COLLABORATION
+
+We would love your participation, if you have any suggestions, just submit a pull request!
