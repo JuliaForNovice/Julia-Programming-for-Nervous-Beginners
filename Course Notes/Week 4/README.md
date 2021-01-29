@@ -1,3 +1,5 @@
 ## Week 4
 
-Has three real lessons and one summary and reflection lesson
+In this final week, you get a chance to see some creativity and play in action, as promissed in Lesson 4 of Week 1. 
+
+That takes up the first three lessons, and then there's a fourth lesson with no new Julia material, but rather just offering a moment of reflection.
