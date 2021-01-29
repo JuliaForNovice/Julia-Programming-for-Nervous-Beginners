@@ -1,3 +1,3 @@
 ## Week 2 
 
-This week has six lessons. At the end of it, with the basics of functions, multiple dispatch, structures and iteration, you have completed a good starting platform for writing Julia code.
+This week has six lessons. The material is still very basic, in line with the slogans "Small Steps" and "Nothing Left Out", but the special features of Julia have been clearly revealed.
