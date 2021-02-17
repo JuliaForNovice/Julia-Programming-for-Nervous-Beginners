@@ -1,6 +1,6 @@
 # Welcome, potential contributor!
 
-There are ... places where contributions are needed:
+Three kinds of contributions are needed:
 
 1. Exercises
 2. Self-assessments
@@ -20,4 +20,5 @@ After each lesson (well, except those that do not teach any new Julia programmin
 
 * Cheat sheets are usually very condensed. We are really unsure what sort of cheat sheet would work best for code-hesitant people, so your ideas would be welcome.
 * Short projects appropriate at various stages. Please keep these text-focussed, if possible.
-* Something like an ANKI deck (or several) would be a very interesting contribution
+* Something like an ANKI deck (or several) would be a very interesting contribution.
+* And of course ideas we've missed. 
