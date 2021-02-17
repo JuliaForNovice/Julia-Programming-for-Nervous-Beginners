@@ -1,0 +1,1 @@
+# Welcome, potential contributor!
