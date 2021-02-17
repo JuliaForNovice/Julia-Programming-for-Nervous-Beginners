@@ -18,6 +18,6 @@ After each lesson (well, except those that do not teach any new Julia programmin
 
 ## Ancillary materials
 
--- Cheat sheets are usually very condensed. We are really unsure what sort of cheat sheet would work best for code-hesitant people, so your ideas would be welcome.
--- Short projects appropriate at various stages. Please keep these text-focussed, if possible.
--- Something like an ANKI deck (or several) would be a very interesting contribution
+* Cheat sheets are usually very condensed. We are really unsure what sort of cheat sheet would work best for code-hesitant people, so your ideas would be welcome.
+* Short projects appropriate at various stages. Please keep these text-focussed, if possible.
+* Something like an ANKI deck (or several) would be a very interesting contribution
