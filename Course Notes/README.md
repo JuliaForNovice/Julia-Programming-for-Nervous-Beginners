@@ -1,6 +1,6 @@
 ## About these notes
 
-The files in this Course Notes directory are the pdfs that were used in the lesson videos in the Julia YouTube channel (needs link).
+The files in this Course Notes directory are the pdfs that were used in the lesson videos in the Julia YouTube channel (link to follow).
 
 They are organised in a course four weeks long. See the subdirectories Week 1, Week 2, etc.
 
