@@ -1,6 +1,6 @@
 # Julia Programming for Nervous Beginners
 
-A course for people who have never programmed, and who are unsure whether they are suited to programming.
+A course for people who have never programmed, and who are unsure whether they are suited to programming. Here's a [link to a CTAN site](https://rcweb.dartmouth.edu/doc/texmf-dist/doc/latex/verse/verse.pdf)
 
 We are guided by three slogans:
 
